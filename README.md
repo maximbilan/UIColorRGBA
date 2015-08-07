@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/cocoapods/l/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 [![Platform](https://img.shields.io/cocoapods/p/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 
-Provides convenience UIColor method for setting color from HEX string in Swift.
+Provides convenience <i>UIColor</i> method for setting color from HEX string in <i>Swift</i>.
 
 # Installation
 

@@ -17,12 +17,12 @@ public extension UIColor {
 		var alpha: CGFloat = 1.0
 		
 		if rgba.hasPrefix("#") {
-			let index = advance(rgba.startIndex, 1)
+			let index = rgba.startIndex.advancedBy(1)
 			let hex = rgba.substringFromIndex(index)
 			let scanner = NSScanner(string: hex)
 			var hexValue: CUnsignedLongLong = 0
 			if scanner.scanHexLongLong(&hexValue) {
-				switch (count(hex)) {
+				switch (hex.characters.count) {
 				case 3:
 					red = CGFloat((hexValue & 0xF00) >> 8) / 15.0
 					green = CGFloat((hexValue & 0x0F0) >> 4) / 15.0

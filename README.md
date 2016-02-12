@@ -13,7 +13,7 @@ Provides convenience <i>UIColor</i> method for setting color from HEX string in 
 Copy UIColorRGBA.swift to your project.
 </pre>
 
-<b>Cocoapods:</b>
+<b>CocoaPods:</b>
 <pre>
 pod 'UIColorRGBA'
 </pre>

@@ -8,14 +8,14 @@ Provides convenience <i>UIColor</i> method for setting color from HEX string in 
 
 # Installation
 
-<b>Manual:</b>
-<pre>
-Copy UIColorRGBA.swift to your project.
-</pre>
-
 <b>CocoaPods:</b>
 <pre>
 pod 'UIColorRGBA'
+</pre>
+
+<b>Manual:</b>
+<pre>
+Copy UIColorRGBA.swift to your project.
 </pre>
 
 # How to use

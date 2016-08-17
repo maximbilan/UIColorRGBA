@@ -18,7 +18,7 @@ pod 'UIColorRGBA'
 Copy UIColorRGBA.swift to your project.
 </pre>
 
-# How to use
+# Using
 
 <pre>
 let color = UIColor(rgba: '#134E5E')

@@ -1,6 +1,6 @@
 //
 //  UIColorRGBA.swift
-//  locwiz
+//  UIColorRGBA
 //
 //  Created by Maxim on 8/6/15.
 //  Copyright (c) 2015 Maxim. All rights reserved.

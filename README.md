@@ -15,7 +15,7 @@ pod 'UIColorRGBA'
 
 <b>Manual:</b>
 <pre>
-Copy UIColorRGBA.swift to your project.
+Copy <i>UIColorRGBA.swift</i> to your project.
 </pre>
 
 <b>For iOS 10 (Xcode 8 Beta) please use swift-3.0 branch.</b>

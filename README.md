@@ -10,7 +10,14 @@ Provides convenience <i>UIColor</i> method for setting color from HEX string in 
 
 <b>CocoaPods:</b>
 <pre>
-pod 'UIColorRGBA'
+For Swift 2.2:
+pod 'UIColorRGBA', '~> 0.2'
+
+For Swift 2.3:
+pod 'UIColorRGBA', '~> 0.2.2'
+
+For Swift 3.0:
+pod 'UIColorRGBA', '~> 0.3'
 </pre>
 
 <b>Manual:</b>

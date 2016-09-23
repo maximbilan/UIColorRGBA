@@ -25,8 +25,6 @@ pod 'UIColorRGBA', '~> 0.3'
 Copy <i>UIColorRGBA.swift</i> to your project.
 </pre>
 
-<b>For running in Xcode 8 please use <i>swift-3.0</i> branch.</b>
-
 # Using
 
 <pre>

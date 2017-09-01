@@ -4,16 +4,16 @@
 [![License](https://img.shields.io/cocoapods/l/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 [![Platform](https://img.shields.io/cocoapods/p/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 
-Provides convenience <i>UIColor</i> method for setting color from HEX string in <i>Swift</i>.
+Provides convenience <i>UIColor</i> method for set up color from HEX string in <i>Swift</i>.
 
 # Installation
 
 <b>CocoaPods:</b>
 <pre>
-For Swift 3.0:
+For <b>Swift 3.0</b>:
 pod 'UIColorRGBA', '~> 0.3'
 
-For Swift 4.0:
+For <b>Swift 4.0</b>:
 pod 'UIColorRGBA', '~> 0.4'
 </pre>
 

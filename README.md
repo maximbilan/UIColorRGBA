@@ -11,7 +11,7 @@ Provides convenience <i>UIColor</i> method for set up color from HEX string in <
 <b>CocoaPods:</b>
 <pre>
 <b>Swift 3.0</b>:
-pod 'UIColorRGBA', '~> 0.3'
+pod 'UIColorRGBA', '0.3'
 
 <b>Swift 4.0</b>:
 pod 'UIColorRGBA', '~> 0.4'

@@ -3,8 +3,8 @@
 [![Version](https://img.shields.io/cocoapods/v/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 [![License](https://img.shields.io/cocoapods/l/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
 [![Platform](https://img.shields.io/cocoapods/p/UIColorRGBA.svg?style=flat)](http://cocoadocs.org/docsets/UIColorRGBA)
-[![CocoaPods](https://img.shields.io/cocoapods/dt/QuickBlox.svg)](https://cocoapods.org/pods/UIColorRGBA)
-[![CocoaPods](https://img.shields.io/cocoapods/dm/QuickBlox.svg)](https://cocoapods.org/pods/UIColorRGBA)
+[![CocoaPods](https://img.shields.io/cocoapods/dt/UIColorRGBA.svg)](https://cocoapods.org/pods/UIColorRGBA)
+[![CocoaPods](https://img.shields.io/cocoapods/dm/UIColorRGBA.svg)](https://cocoapods.org/pods/UIColorRGBA)
 
 Provides convenience <i>UIColor</i> method for setup color from HEX string in <i>Swift</i>.
 

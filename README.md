@@ -12,7 +12,7 @@ Provides a convenience <i>UIColor</i> method for set up a color from a HEX strin
 
 <b>CocoaPods:</b>
 <pre>
-pod 'UIColorRGBA', '~> 0.4'
+pod 'UIColorRGBA'
 </pre>
 
 <b>Manual:</b>

@@ -6,7 +6,7 @@
 [![CocoaPods](https://img.shields.io/cocoapods/dt/UIColorRGBA.svg)](https://cocoapods.org/pods/UIColorRGBA)
 [![CocoaPods](https://img.shields.io/cocoapods/dm/UIColorRGBA.svg)](https://cocoapods.org/pods/UIColorRGBA)
 
-Provides convenience <i>UIColor</i> method for setup color from HEX string in <i>Swift</i>.
+Provides a convenience <i>UIColor</i> method for set up a color from HEX string in <i>Swift</i>.
 
 # Installation
 

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "UIColorRGBA"
-s.version      = "0.4.1"
+s.version      = "0.5"
 s.summary      = "UIColor extension"
 s.description  = "Provides a convenience UIColor method for the setting color from a HEX string in Swift"
 s.homepage     = "https://github.com/maximbilan/UIColorRGBA"
